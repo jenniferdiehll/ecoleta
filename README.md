@@ -33,7 +33,7 @@ a Ecoleta foi criada com âmbito de transformar o mundo num lugar melhor conecta
 
 **Clone este repositório**
 ```
-$ git clone https://github.com/jenniferdiehll/dev-radar.git
+$ git clone https://github.com/jenniferdiehll/ecoleta.git
 ```
 ## ♻️ Intalando a aplicação:
 
